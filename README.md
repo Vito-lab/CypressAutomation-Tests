@@ -1,7 +1,7 @@
 # CypressAutomation-Tests
 
-In this repository are held all my public Cypress Automation tests.<br>
-Steps on how to launch tests:
+In this repository are held all my public Cypress Automation tests.<br><br>
+**Steps on how to launch tests:**
 1. Open Visual Studio Code
 2. Make sure the folder that contains the test is opened in VS Code. 
 3. Open Cypress software (In Terminal write "npx cypress open")
